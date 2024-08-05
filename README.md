@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Teelines45
-- 👀 I’m interested in learning html an css
-- 🌱 I’m currently learning how to create a web pages an making fully functional website
+- 👀 I’m interested in learning Azure cloud Solutions 
+- 🌱 I’m qualified web developer
 - 💞️ I’m looking to collaborate on this new project i just started 
 - 📫 How to reach me ... am available on Facebook Tee Manyaka/ instergram teelines45/ 
 
